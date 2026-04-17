@@ -53,12 +53,6 @@ In any Claude Code session:
 
 The skill will **never** ask you for an SSN, driver's license number, or full date of birth in chat. That information belongs in the carrier's secure form — not in a conversation transcript. Outbound links carry UTM parameters so the carriers can see skill-driven traffic in aggregate; that's referral analytics, not personal tracking.
 
-## What it's not
-
-- **Not a rater.** It can't bind a policy or promise a price. The range is directional — the real number comes from Mercury or AIS.
-- **Not a comparison site.** Mercury and AIS only. If you want Progressive, Geico, State Farm, etc., this isn't the right tool.
-- **Not financial advice.** Coverage decisions are yours; the skill just helps you arrive prepared.
-
 ## License
 
 MIT. Fork it, adapt it, point it at a different carrier — the routing and the range scaffolding are the interesting bits.
